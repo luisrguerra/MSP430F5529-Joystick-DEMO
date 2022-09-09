@@ -10,7 +10,7 @@ Used: Joystick ky-023
 
 GND -> GND (Ground)
 
-+5V -> 5V
++5V -> 3v3
 
 URX -> P6.0
 
