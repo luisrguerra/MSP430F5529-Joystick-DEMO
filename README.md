@@ -6,7 +6,7 @@ Board: MSP-430-EXP430F5529LP
 
 Used: Joystick ky-023
 
-![chrome_2t9twji60k](https://user-images.githubusercontent.com/31783838/189431275-6d238591-090b-43d0-858d-b7380ca41573.png)
+![chrome_2t9twji60k](https://user-images.githubusercontent.com/31783838/189431552-086dff1f-01c1-4545-9f95-93b540babcce.png)
 
 GND -> GND (Ground)
 
